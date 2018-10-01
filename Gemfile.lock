@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/citta-lab/tippy_gem
-  revision: e254e0ab011e4d073322bd0ed00930405f103b89
+  revision: 68c7678fe8b60d8231cb0c2ded20f2fe90aee1f8
   specs:
-    tippy_gem (0.1.3)
+    tippy_gem (0.1.4)
 
 GEM
   remote: https://rubygems.org/
